@@ -1,0 +1,19 @@
+# Gradle
+.gradle/
+build/
+/build/
+
+# Android Studio / IntelliJ / Eclipse / Visual Studio Code
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+
+# Local configuration
+local.properties
+
+# OS files
+.DS_Store
+Thumbs.db
